@@ -377,3 +377,4 @@ const friends = ['Bob', 'Tony', 'Tanya']
 # branch1_2
 # branch1_3
 ## new commit 1
+## new commit 2
