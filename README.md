@@ -373,6 +373,12 @@ const friend = ['Bob', 'Tony', 'Tanya']
 const friend = 'Bob'
 const friends = ['Bob', 'Tony', 'Tanya']
 ```
+<<<<<<< HEAD
 Branch2_1
 Branch2_2
 Branch2_3
+=======
+# branch1_1
+# branch1_2
+# branch1_3
+>>>>>>> branch1
