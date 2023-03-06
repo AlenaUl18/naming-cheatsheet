@@ -376,6 +376,12 @@ const friends = ['Bob', 'Tony', 'Tanya']
 # branch1_1
 # branch1_2
 # branch1_3
+<<<<<<< HEAD
 ## new commit 1
 ## new commit 2
 ## new commit 3
+=======
+new repos commit 1
+new repos commit 2
+new repos commit 3
+>>>>>>> 72dc3e7399e116ceb71f3e164480352226ad71f2
